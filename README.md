@@ -1,4 +1,4 @@
-Airbnb NYC Data Analysis Project
+# Airbnb NYC Data Analysis Project
 This project provides a comprehensive analysis of the New York City Airbnb open dataset. The goal is to clean the data, perform exploratory data analysis (EDA), and visualize key findings to understand the short-term rental market in NYC.
 
  Overview
